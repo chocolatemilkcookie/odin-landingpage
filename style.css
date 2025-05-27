@@ -45,6 +45,8 @@ a{
     display: flex;
     margin-top: 60px;
     gap: 30px;
+    flex: auto;
+    flex-wrap: wrap;
 }
 
 .col1{
@@ -52,6 +54,8 @@ a{
     flex-direction: column;
     gap: 16px;
     align-items: flex-start;
+    flex: auto;
+    width: 200px;
 }
 
 .signup{
