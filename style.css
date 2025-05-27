@@ -183,3 +183,7 @@ a{
     align-items: center;
     color: #E5E7EB;
 }
+
+img{
+    border-radius: 5px;
+}
